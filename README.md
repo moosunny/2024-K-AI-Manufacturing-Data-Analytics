@@ -1,1 +1,1 @@
-# 2024-K-AI-Manufacturing-Data-Analytics
+# 2024 K 인공지능 제조 데이터 분석 경진대회
